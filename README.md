@@ -47,10 +47,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/1280px-Google-flutter-logo.svg.png" alt="Flutter" width="50" height="50"/>
-  <img src="https://1000marcas.net/wp-content/uploads/2021/06/iOS-Logo-2013-1.jpg" alt="iOS" width="50" height="50"/>
-  <!-- Continúa agregando íconos para cada certificación y tecnología -->
-</div>
+
 
