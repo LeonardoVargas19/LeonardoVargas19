@@ -5,7 +5,7 @@
 🔮 Apasionado por la tecnología y por enseñar a las personas a programar.
 
 ### 🛠 Tecnologías
-- **Java ☕**: Preparándome para la certificación Java OCA 808.
+- **Java ☕**: Mi lenguaje favorito y en el que me estoy especializando .
 - **Flutter 🐦**: Creando aplicaciones móviles multiplataforma.
 - **iOS/Xcode 🍏**: Desarrollando experiencias nativas en iOS.
 - **Spring Boot 🌱**: Construyendo back-ends robustos con Microservicios.
