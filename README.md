@@ -12,15 +12,18 @@
 - **MySQL 🐬**: Diseñando y gestionando bases de datos.
 - **C/HTML/CSS/JavaScript**: Fundamentos sólidos en desarrollo web.
 
-### 🎖 Certificaciones
-- **IntelliJ IDEA**: Mejora de productividad (Udemy, ene. 2024).
+### 🎖 Certificaciones 
+- **Oracle Java SE 8 Programmer I**: Asociado (Oracle, feb. 2023).
 - **Oracle APEX Cloud Developer**: Profesional certificado (Oracle, dic. 2023).
 - **Oracle Cloud Infrastructure AI Certified**: Fundamentos (Oracle, nov. 2023).
-- **Spring Framework 5 + REST**: De cero a experto (Udemy, nov. 2023).
-- **Oracle Redwood Application Developer**: Asociado (Oracle, oct. 2023).
-- **UX esencial**: (LinkedIn, sept. 2023).
-- **Java (Básico)**: (HackerRank, sept. 2023).
 - **Oracle Cloud Infrastructure Certified Foundations**: Asociado (Oracle, sept. 2023).
+- **Oracle Redwood Application Developer**: Asociado (Oracle, oct. 2023).
+- **Java (Básico)**: (HackerRank, sept. 2023).
+  
+- ### 🎖 Cursos
+- **IntelliJ IDEA**: Mejora de productividad (Udemy, ene. 2024).
+- **Spring Framework 5 + REST**: De cero a experto (Udemy, nov. 2023).
+- **UX esencial**: (LinkedIn, sept. 2023).
 
 ### 💼 Habilidades Blandas
 - Liderazgo y trabajo en equipo: Capaz de guiar equipos hacia objetivos comunes y crear un ambiente colaborativo.
