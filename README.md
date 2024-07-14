@@ -13,7 +13,7 @@
 - **C/HTML/CSS/JavaScript**: Fundamentos sólidos en desarrollo web.
 
 ### 🎖 Certificaciones 
-- **Oracle Java SE 8 Programmer I**: Asociado (Oracle, feb. 2023).
+- **Oracle Java SE 8 Programmer I**: Asociado (Oracle, feb. 2024).
 - **Oracle APEX Cloud Developer**: Profesional certificado (Oracle, dic. 2023).
 - **Oracle Cloud Infrastructure AI Certified**: Fundamentos (Oracle, nov. 2023).
 - **Oracle Cloud Infrastructure Certified Foundations**: Asociado (Oracle, sept. 2023).
