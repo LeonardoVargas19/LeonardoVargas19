@@ -1,54 +1,100 @@
-# Hola, soy Leonardo 👋
+<!-- 🌟 GitHub Profile README - Leonardo Vargas -->
 
-## Desarrollador Java Mobile en iOS | Flutter | Xcode | Spring Boot | MySQL
+# 👋 Hi, I’m Leonardo Vargas  
 
-🔮 Apasionado por la tecnología y por enseñar a las personas a programar.
+## 💻 Java & Mobile Developer | Spring Boot | Flutter | Android | iOS | Google Cloud | Docker | Kubernetes  
 
-### 🛠 Tecnologías
-- **Java ☕**: Mi lenguaje favorito y en el que me estoy especializando .
-- **Flutter 🐦**: Creando aplicaciones móviles multiplataforma.
-- **iOS/Xcode 🍏**: Desarrollando experiencias nativas en iOS.
-- **Spring Boot 🌱**: Construyendo back-ends robustos con Microservicios.
-- **MySQL 🐬**: Diseñando y gestionando bases de datos.
-- **C/HTML/CSS/JavaScript**: Fundamentos sólidos en desarrollo web.
-
-### 🎖 Certificaciones 
-- **Oracle Java SE 8 Programmer I**: Asociado (Oracle, feb. 2024).
-- **Oracle APEX Cloud Developer**: Profesional certificado (Oracle, dic. 2023).
-- **Oracle Cloud Infrastructure AI Certified**: Fundamentos (Oracle, nov. 2023).
-- **Oracle Cloud Infrastructure Certified Foundations**: Asociado (Oracle, sept. 2023).
-- **Oracle Redwood Application Developer**: Asociado (Oracle, oct. 2023).
-- **Java (Básico)**: (HackerRank, sept. 2023).
-  
-- ### 🎖 Cursos
-- **IntelliJ IDEA**: Mejora de productividad (Udemy, ene. 2024).
-- **Spring Framework 5 + REST**: De cero a experto (Udemy, nov. 2023).
-- **UX esencial**: (LinkedIn, sept. 2023).
-
-### 💼 Habilidades Blandas
-- Liderazgo y trabajo en equipo: Capaz de guiar equipos hacia objetivos comunes y crear un ambiente colaborativo.
-- Paciencia y amabilidad: Mantengo la calma bajo presión, lo que facilita la resolución de problemas y el soporte al equipo.
-- Análisis y pensamiento crítico: Abordaje sistemático para solucionar problemas complejos.
-- Comunicación efectiva: Habilidad para transmitir ideas de manera clara y concisa.
-- Adaptabilidad: Rápido para ajustarse a nuevas situaciones y desafíos tecnológicos.
-
-### 🎈 Hobbies o Intereses Personales
-- Lectura: Un libro siempre está a mi alcance, disfruto sumergirme en diferentes mundos y perspectivas.
-- Ejercicio y caminatas: Mantenerme activo es clave para un estilo de vida equilibrado.
-- Música: La banda sonora perfecta es esencial para cualquier sesión de codificación.
-- Anime: Soy un fanático de "Evangelion", me encanta explorar las profundidades de sus personajes y trama.
+🚀 Passionate about technology, software architecture, and teaching others how to code.  
+I love building efficient and scalable applications that merge backend power with beautiful mobile experiences.  
 
 ---
 
-🔗 **Cómo contactarme:**
-- [LinkedIn](www.linkedin.com/in/leonardo-vargas-olvera-backendjr78936)
-- [Correo](mailto:leonardo.vargas.ulsa@gmail.com)
+### 🧩 **Tech Stack**
 
-💜 **Estilo de vida:** Me gusta programar y leer. Siempre estoy aprendiendo cosas nuevas.
+#### 💻 **Backend**
+- **Java ☕** — my main language and professional focus.  
+- **Spring Boot 🌱** — creating REST APIs and Microservices with modules like *Spring Data, Security, Cloud,* and *Batch*.  
+- **MySQL 🐬 / PostgreSQL** — database design, optimization, and query tuning.  
+- **Kafka 🔄** — building asynchronous messaging services for large-scale communication.  
+- **Docker 🐳** — containerization and environment consistency.  
+- **Kubernetes ☸️** — orchestration and scalable cloud deployments.  
+- **Google Cloud Platform (GCP) ☁️** — experience with Cloud Run, Pub/Sub, Cloud Storage, Cloud SQL, and App Engine.  
 
-👾 **Fun fact:** Me encanta personalizar todo mi entorno de trabajo con temas de morado y personalizar los íconos de mis proyectos.
+#### 📱 **Mobile Development**
+- **Flutter 🐦** — cross-platform app development using *Riverpod*, *Bloc*, and clean architecture.  
+- **Android (Kotlin | Jetpack Compose)** — native Android apps with modern UI and architecture components.  
+- **iOS (Swift | SwiftUI | Xcode)** — building native iOS experiences focused on performance and UX.  
+
+#### 🌐 **Web & Fundamentals**
+- **HTML, CSS, JavaScript, C** — strong foundation in web structure and programming fundamentals.  
 
 ---
 
+### 🎖 **Certifications**
+- 🥇 **Oracle Java SE 8 Programmer I** — Oracle *(Feb 2024)*  
+- ☁️ **Oracle APEX Cloud Developer** — Oracle *(Dec 2023)*  
+- 🤖 **Oracle Cloud Infrastructure AI Certified** — Oracle *(Nov 2023)*  
+- ☁️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle *(Sept 2023)*  
+- 🔺 **Oracle Redwood Application Developer** — Oracle *(Oct 2023)*  
+- 💡 **Java (Basic)** — HackerRank *(Sept 2023)*  
 
+---
 
+### 📚 **Courses & Training**
+- 🌱 **Spring Framework 5 + REST** — Udemy *(Nov 2023)*  
+- ⚙️ **IntelliJ IDEA Productivity Masterclass** — Udemy *(Jan 2024)*  
+- 🎨 **Essential UX Design** — LinkedIn Learning *(Sept 2023)*  
+
+---
+
+### 💬 **Languages**
+- 🇲🇽 **Spanish:** Native  
+- 🇬🇧 **English:** B1 Intermediate — currently improving fluency through daily practice and professional communication.  
+
+---
+
+### 🤝 **Soft Skills**
+- 💡 Leadership & Teamwork — guiding teams toward common goals.  
+- 🧘 Calm Under Pressure — maintaining focus in demanding environments.  
+- 🧠 Analytical & Critical Thinking — solving complex problems effectively.  
+- 💬 Clear Communication — expressing ideas concisely and confidently.  
+- ⚡ Adaptability — quick to learn and apply new technologies.  
+
+---
+
+### 🎨 **Personal Interests**
+- 📚 **Reading:** Psychology, tech, and fiction books keep me inspired.  
+- 🏋️‍♂️ **Training:** Fitness and discipline fuel my daily routine.  
+- 🎧 **Music:** The perfect soundtrack for every coding session.  
+- 🎌 **Anime:** Huge fan of *Evangelion* — exploring its depth and symbolism.  
+
+---
+
+### 📫 **Let’s Connect**
+- 💼 [**LinkedIn**](www.linkedin.com/in/leovargas-dev-fullstack)  
+- 📧 [**Email**](mailto:leonardo.vargas.ulsa@gmail.com)  
+- 🌍 **Portfolio:** Coming soon...  
+
+---
+
+💜 *“I love to code, learn, and build meaningful projects. Every line of code is a chance to grow.”*  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code with passion, design with purpose, and build with heart.”</i>
+</p>
